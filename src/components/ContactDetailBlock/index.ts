@@ -1,0 +1,1 @@
+export {ContactDetailBlock} from "./ContactDetailBlock";

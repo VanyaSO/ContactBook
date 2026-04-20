@@ -1,0 +1,1 @@
+export {ContactSearchBar} from "./ContactSearchBar.tsx";
